@@ -1,14 +1,14 @@
 ---
 layout: post
-title:  "Moon Jekyll Theme"
-date:   2016-04-06
-excerpt: "Minimal, one column Jekyll theme for your blog."
+title:  "THIS A TEST"
+date:   2016-08-05
+excerpt: "HELLO,THIS A TEST!"
 project: true
 tag:
 - jekyll 
-- moon
+- TEST
 - blog
-- about
+- YAKC
 - theme
 comments: true
 ---
@@ -18,11 +18,10 @@ comments: true
 <center><b>Moon</b> is a minimal, one column jekyll theme.</center>
      
  I'm not a developer or designer. And I don't add footer to show who did this theme. If you like this theme or using it, please give a **star** for motivation, It makes me happy.
-
-<iframe src="https://ghbtns.com/github-btn.html?user=TaylanTatli&repo=Moon&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>    
+  
       
 ## Installation
-* Fork the [Moon repo](https://github.com/TaylanTatli/Moon/fork)
+* Fork the [yzkc](https://github.com/yzkc)
 * Edit `_config.yml` file.
 * Remove sample posts from `_posts` folder and add yours.
 * Edit `index.md` file in `about` folder.
@@ -47,7 +46,7 @@ That's all.
 {% endcapture %}
 {% include gallery images=images caption="Moon Theme on Small Screen Size" cols=2 %}      
       
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.      
+See a [yzkc](http://yzkc.github.io/) hosted on GitHub.      
 
 ## Site Setup
 A quick checklist of the files you’ll want to edit to get up and running.    
