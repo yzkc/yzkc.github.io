@@ -1,2 +1,2 @@
-# yzkc.github.io
+# https://yzkc.github.io
 > 博客
